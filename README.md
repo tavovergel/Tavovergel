@@ -1,5 +1,6 @@
-### HI IM GUSTAVO VERGEL 👋
-### 💬 Ask me about
+#   **HI IM GUSTAVO VERGEL** 👋
+## 💬 Ask me about
+![Image of Yaktocat](https://github.com/tavovergel/Tavovergel/blob/main/principalgithub.png)
 
 <!--
 **tavovergel/Tavovergel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
