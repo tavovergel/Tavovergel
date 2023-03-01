@@ -1,4 +1,5 @@
-### Hi there 👋
+### HI IM GUSTAVO VERGEL 👋
+### 💬 Ask me about
 
 <!--
 **tavovergel/Tavovergel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
