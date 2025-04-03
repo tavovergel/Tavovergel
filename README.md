@@ -43,6 +43,16 @@
 
 </div>
 
+<div align="center">
+
+# **Redes Sociales** 👋
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" title="LinkedIn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50" height="50" title="Twitter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="50" height="50" title="Instagram"/>
+</p>
+
 <!--
 **tavovergel/Tavovergel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
