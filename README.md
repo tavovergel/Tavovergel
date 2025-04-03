@@ -12,6 +12,9 @@
 
 ![Image of Yaktocat](https://github.com/tavovergel/Tavovergel/blob/main/principalgithub.png)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tavovergel&layout=compact&langs_count=8&theme=tokyonight)
+
+
 </div>
 
 <!--
