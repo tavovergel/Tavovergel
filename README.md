@@ -1,8 +1,18 @@
-<div align = "center">#                           **Hola, Soy Gustavo Vergel** 👋
-## 💬 Bienvenidos, Soy Analista y desarrollador de software, apasionado por la tecnologia
-##😄 Siempre con ganas de ayudar a crear y resolver solciones tecnologicas
-## Desarrollador WEB 
-## A los datos y a la informacion hay que darle sentido
+<div align="center">
+
+# **Hola, Soy Gustavo Vergel** 👋  
+
+## 💬 Bienvenidos, Soy Analista y Desarrollador de Software, apasionado por la tecnología  
+
+## 😄 Siempre con ganas de ayudar a crear y resolver soluciones tecnológicas  
+
+## 🚀 Desarrollador WEB  
+
+## 📊 A los datos y a la información hay que darle sentido  
+
+![Image of Yaktocat](https://github.com/tavovergel/Tavovergel/blob/main/principalgithub.png)
+
+</div>
 
 </div>
 ![Image of Yaktocat](https://github.com/tavovergel/Tavovergel/blob/main/principalgithub.png)
