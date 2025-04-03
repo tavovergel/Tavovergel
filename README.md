@@ -3,8 +3,9 @@
 ##😄 Siempre con ganas de ayudar a crear y resolver solciones tecnologicas
 ## Desarrollador WEB 
 ## A los datos y a la informacion hay que darle sentido
-![Image of Yaktocat](https://github.com/tavovergel/Tavovergel/blob/main/principalgithub.png)
+
 </div>
+![Image of Yaktocat](https://github.com/tavovergel/Tavovergel/blob/main/principalgithub.png)
 <!--
 **tavovergel/Tavovergel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
