@@ -1,8 +1,8 @@
-#   **Hola, Soy Gustavo Vergel** 👋
+#                           **Hola, Soy Gustavo Vergel** 👋
 ## 💬 Bienvenidos, Soy Analista y desarrollador de software, apasionado por la tecnologia
 ##😄 Siempre con ganas de ayudar a crear y resolver solciones tecnologicas
 ## Desarrollador WEB 
-## A los datoa y la informacion hay que darle sentido
+## A los datos y a la informacion hay que darle sentido
 ![Image of Yaktocat](https://github.com/tavovergel/Tavovergel/blob/main/principalgithub.png)
 
 <!--
