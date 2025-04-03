@@ -10,7 +10,8 @@
 
  📊 A los datos y a la información siempre hay que darle sentido
 
- <strong>Conocimientos:</strong>
+ <div align ="left">
+  <strong>Conocimientos:</strong>
  ### 🚀 Tecnologías que uso  
 - JavaScript
 - Python
@@ -23,6 +24,7 @@
 - Salesforce
 - Power BI
 - Wordpress 
+ </div>
  
 
 ![Image of Yaktocat](https://github.com/tavovergel/Tavovergel/blob/main/principalgithub.png)
