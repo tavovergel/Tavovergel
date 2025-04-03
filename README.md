@@ -2,7 +2,7 @@
 
 # **Hola, Soy Gustavo Vergel** 👋  
 
-💬 Bienvenidos, Soy Analista y Desarrollador de Software,Ingeniero de Software y apasionado por la tecnología  
+💬 Bienvenidos a mi repositorio, Soy Analista y Desarrollador de Software,Ingeniero de Software y apasionado por la tecnología  
 
  😄 Siempre con ganas de ayudar a crear y resolver soluciones tecnológicas  
 
@@ -37,10 +37,6 @@
 
 </div>
 
-
- 
-
-![Image of Yaktocat](https://github.com/tavovergel/Tavovergel/blob/main/principalgithub.png)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tavovergel&layout=compact&langs_count=8&theme=tokyonight)
 
