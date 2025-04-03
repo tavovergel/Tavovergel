@@ -8,7 +8,22 @@
 
  🚀 Desarrollador WEB  
 
- 📊 A los datos y a la información siempre hay que darle sentido  
+ 📊 A los datos y a la información siempre hay que darle sentido
+
+ <strong>Conocimientos:</strong>
+ ### 🚀 Tecnologías que uso  
+- JavaScript
+- Python
+- Java 
+- React  
+- Node.js  
+- Azure
+- Html
+- Css
+- Salesforce
+- Power BI
+- Wordpress 
+ 
 
 ![Image of Yaktocat](https://github.com/tavovergel/Tavovergel/blob/main/principalgithub.png)
 
