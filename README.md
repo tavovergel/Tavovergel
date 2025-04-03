@@ -49,10 +49,10 @@
 ## 🌎 Redes Sociales  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="50" title="GitHub"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="70" height="50" title="LinkedIn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" width="70" height="50" title="X (Twitter)"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="70" height="50" title="Instagram"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="50" height="50" title="LinkedIn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50" height="50" title="Twitter"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" height="50" title="Instagram"/>
 </p>
 
 
