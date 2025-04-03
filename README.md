@@ -2,20 +2,18 @@
 
 # **Hola, Soy Gustavo Vergel** 👋  
 
-💬 Bienvenidos, Soy Analista y Desarrollador de Software, apasionado por la tecnología  
+💬 Bienvenidos, Soy Analista y Desarrollador de Software,Ingeniero de Software y apasionado por la tecnología  
 
  😄 Siempre con ganas de ayudar a crear y resolver soluciones tecnológicas  
 
  🚀 Desarrollador WEB  
 
- 📊 A los datos y a la información hay que darle sentido  
+ 📊 A los datos y a la información siempre hay que darle sentido  
 
 ![Image of Yaktocat](https://github.com/tavovergel/Tavovergel/blob/main/principalgithub.png)
 
 </div>
 
-</div>
-![Image of Yaktocat](https://github.com/tavovergel/Tavovergel/blob/main/principalgithub.png)
 <!--
 **tavovergel/Tavovergel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
