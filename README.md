@@ -46,7 +46,7 @@
 <div align="center">
 
 # **Redes Sociales** 👋
-<p align="center">
+<p align="center" position="space-around">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="50" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="70" height="50" title="LinkedIn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="70" height="50" title="Twitter"/>
