@@ -1,5 +1,5 @@
-#   **HI IM GUSTAVO VERGEL** 👋
-## 💬 Ask me about
+#   **Hola, Soy Gustavo Vergel** 👋
+## 💬 Preguntame lo que quieras
 ![Image of Yaktocat](https://github.com/tavovergel/Tavovergel/blob/main/principalgithub.png)
 
 <!--
